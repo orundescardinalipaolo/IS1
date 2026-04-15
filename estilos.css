@@ -1,0 +1,8 @@
+.code-block {
+  background: #1e1e1e;
+  color: #dcdcdc;
+  padding: 15px;
+  border-radius: 8px;
+  font-family: monospace;
+  overflow-x: auto;
+}
